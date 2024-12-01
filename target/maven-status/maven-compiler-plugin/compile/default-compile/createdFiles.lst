@@ -1,0 +1,4 @@
+com\gs\email\SendEmail.class
+com\gs\email\Attachment.class
+com\gs\email\PropertyReader.class
+com\gs\email\SendEmail$1.class
